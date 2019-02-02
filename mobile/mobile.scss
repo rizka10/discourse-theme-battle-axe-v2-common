@@ -1,0 +1,25 @@
+// Enlarge logo sizes
+#site-logo.logo-big {
+  height: 40px;
+  max-height: 40px;
+  max-width: 44px;
+}
+
+.ember-view.title {
+  height: 40px
+}
+
+.d-header .contents {
+  margin: 6px 0px;
+}
+
+.d-header .title {
+  max-width: 149px;
+}
+
+// Supress topic excerpts for mobile Categories view
+.topic-list {
+  .topic-excerpt {
+    display: none;
+  }
+}

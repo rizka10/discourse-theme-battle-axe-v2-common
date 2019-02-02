@@ -1,0 +1,45 @@
+// Header logos to pure white
+.d-header-icons .d-icon {
+  opacity: 1;
+}
+
+// Natural white background
+body {
+  background-color: #fdfbf9;
+}
+
+// Also set for "now typing" users notification
+.presence-users {
+  background-color: #fdfbf9;
+}
+
+// Natural white for message editor background area
+#reply-control {
+  background-color: #fdfbf9;
+}
+
+// User profile messages list
+.user-stream .item, .user-stream .user-stream-item {
+  background-color: #fdfbf9;
+}
+
+// Remove ADVERTISEMENT-labeld for DFP, AdSense
+.google-adsense-label {
+  display: none;
+}
+
+.google-dfp-ad-label {
+  display: none;
+}
+
+// Remove extra space between before ad in categories view
+#list-area {
+  margin-bottom: 20px;
+}
+
+// Hide the dangerous Mailing list mode -setting
+.user-preferences .pref-mailing-list-mode {
+  display: none;
+}
+
+
