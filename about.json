@@ -3,5 +3,17 @@
   "component": true,
   "about_url": "https://github.com/TapparaCo/discourse-theme-battle-axe-v2-common",
   "license_url": "https://github.com/TapparaCo/discourse-theme-battle-axe-v2-common/blob/master/LICENSE.md",
-  "color_schemes": {}
+  "color_schemes": {
+      "Tappara.co Theme": {
+        "primary": "000000",
+        "secondary": "ffffff",
+        "tertiary": "1f69d3",
+        "quaternary": "ff6600",
+        "header_background": "154890",
+        "header_primary": "ffffff",
+        "highlight": "ffff4d",
+        "danger": "b30210",
+        "success": "009900",
+        "love": "ff6600"
+      }
 }
